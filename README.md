@@ -1,7 +1,12 @@
 # iOS Trackers Detect
 
 Easily detect which tracker libraries are used in a iOS app (`.ipa`).
+
 **iOS Trackers Detect** is a Python3 script that you can call to print (in your terminal) the list of third party tracker libraries shipped with the app.
+
+:warning: **Note that for this script to work, it requires the creation of a list of known tracker libraries for iOS**, which does not exist at this time. Feel free to contribute if you want to create/maintain it!
+
+This script is inspired from the work of the organization Exodus Privacy and its platform [εxodus](https://github.com/Exodus-Privacy/exodus), for Android trackers.
 
 ## How to use
 
